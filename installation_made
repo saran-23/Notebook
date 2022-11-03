@@ -6,8 +6,12 @@ Libraries & Frameworks:
 
 
 
-
-
+----------
+Resources:
+----------
+!wget "https://fabrikbrands.com/wp-content/uploads/Famous-Red-Logos-1-770x481.png"
+!wget 'https://learnopencv.com/wp-content/uploads/2021/06/sample.jpg'
+!wget 'https://img.freepik.com/vector-gratis/ilustracion-pagina-colorear-celebracion-halloween_23-2149664597.jpg'
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
